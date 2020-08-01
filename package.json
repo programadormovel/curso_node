@@ -11,5 +11,9 @@
     "url": "curso_node"
   },
   "author": "Adriano",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.17.1"
+  }
 }
